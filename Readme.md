@@ -69,3 +69,18 @@ Alert Generation
     │
     ▼
 Reporting & Analytics
+# Contributing
+
+Thank you for your interest in contributing to the Institutional Grade Trading Compliance System.
+
+We welcome contributions that improve functionality, code quality, documentation, testing, performance, and compliance coverage.
+
+## How to Contribute
+
+### 1. Fork the Repository
+
+Create your own fork of the repository and clone it locally.
+
+```bash
+git clone https://github.com/<your-username>/institutional-grade-trading-compliance-system.git
+cd institutional-grade-trading-compliance-system
