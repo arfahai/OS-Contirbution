@@ -77,10 +77,11 @@ We welcome contributions that improve functionality, code quality, documentation
 
 ## Open Source Contribution  guide
 
+
 ### 1. Fork the Repository
 
 Create your own fork of the repository and clone it locally.
 
 ```bash
-git clone https://github.com/<your-username>/institutional-grade-trading-compliance-system.git
+https://github.com/n3740235-lgtm/OS-Contirbution.git
 cd institutional-grade-trading-compliance-system
