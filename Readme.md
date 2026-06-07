@@ -43,7 +43,7 @@ The notebook demonstrates the complete compliance lifecycle, including:
 - Rule-based compliance alerts
 - Exception management workflows
 
-### Reporting
+### Reports
 - Compliance summaries
 - Regulatory reporting outputs
 - Audit-ready logs
