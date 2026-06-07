@@ -2,7 +2,7 @@
 
 An institutional-grade trading compliance and surveillance framework designed to monitor, validate, and enforce regulatory, risk-management, and internal trading policies across financial market activities.
 
-## Big picture of project
+## Big idea
 
 This project provides a comprehensive compliance monitoring solution for trading operations. It enables automated detection of policy violations, suspicious trading activity, risk-limit breaches, and regulatory compliance issues through rule-based analysis and monitoring workflows.
 
@@ -43,7 +43,7 @@ The notebook demonstrates the complete compliance lifecycle, including:
 - Rule-based compliance alerts
 - Exception management workflows
 
-### Reporting
+### Reports
 - Compliance summaries
 - Regulatory reporting outputs
 - Audit-ready logs
@@ -75,12 +75,13 @@ Thank you for your interest in contributing to the Institutional Grade Trading C
 
 We welcome contributions that improve functionality, code quality, documentation, testing, performance, and compliance coverage.
 
-## How to Contribute
+## Open Source Contribution  guide
+
 
 ### 1. Fork the Repository
 
 Create your own fork of the repository and clone it locally.
 
 ```bash
-git clone https://github.com/<your-username>/institutional-grade-trading-compliance-system.git
+https://github.com/n3740235-lgtm/OS-Contirbution.git
 cd institutional-grade-trading-compliance-system
