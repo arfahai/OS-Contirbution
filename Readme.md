@@ -75,12 +75,13 @@ Thank you for your interest in contributing to the Institutional Grade Trading C
 
 We welcome contributions that improve functionality, code quality, documentation, testing, performance, and compliance coverage.
 
-## How to Contribute
+## Open Source Contribution  guide
+
 
 ### 1. Fork the Repository
 
 Create your own fork of the repository and clone it locally.
 
 ```bash
-git clone https://github.com/<your-username>/institutional-grade-trading-compliance-system.git
+https://github.com/n3740235-lgtm/OS-Contirbution.git
 cd institutional-grade-trading-compliance-system
