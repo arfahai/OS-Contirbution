@@ -75,7 +75,7 @@ Thank you for your interest in contributing to the Institutional Grade Trading C
 
 We welcome contributions that improve functionality, code quality, documentation, testing, performance, and compliance coverage.
 
-## How to Contribute
+## Open Source Contribution  guide
 
 ### 1. Fork the Repository
 
