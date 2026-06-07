@@ -2,7 +2,7 @@
 
 An institutional-grade trading compliance and surveillance framework designed to monitor, validate, and enforce regulatory, risk-management, and internal trading policies across financial market activities.
 
-## Overview
+## Big picture of project
 
 This project provides a comprehensive compliance monitoring solution for trading operations. It enables automated detection of policy violations, suspicious trading activity, risk-limit breaches, and regulatory compliance issues through rule-based analysis and monitoring workflows.
 
